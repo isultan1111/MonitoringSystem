@@ -1,0 +1,112 @@
+Incident ID: 2
+Time: 2025-09-09T11:35:29.0975852
+Severity: CRITICAL
+Type: EXCEPTION
+Message: java.lang.RuntimeException: Database connection failed
+Status: OPEN
+Resolution: 
+-------------------------------------------------
+Incident ID: 4
+Time: 2025-09-09T11:35:54.0980745
+Severity: CRITICAL
+Type: EXCEPTION
+Message: java.lang.RuntimeException: Database connection failed
+Status: OPEN
+Resolution: 
+-------------------------------------------------
+Incident ID: 5
+Time: 2025-09-09T11:36:19.1060884
+Severity: CRITICAL
+Type: EXCEPTION
+Message: java.lang.RuntimeException: Database connection failed
+Status: OPEN
+Resolution: 
+-------------------------------------------------
+Incident ID: 8
+Time: 2025-09-09T11:37:49.1044713
+Severity: CRITICAL
+Type: EXCEPTION
+Message: java.lang.RuntimeException: Database connection failed
+Status: OPEN
+Resolution: 
+-------------------------------------------------
+Incident ID: 9
+Time: 2025-09-09T11:38:04.0974074
+Severity: CRITICAL
+Type: EXCEPTION
+Message: java.lang.RuntimeException: Database connection failed
+Status: OPEN
+Resolution: 
+-------------------------------------------------
+Incident ID: 10
+Time: 2025-09-09T11:38:09.1014053
+Severity: CRITICAL
+Type: EXCEPTION
+Message: java.lang.RuntimeException: Database connection failed
+Status: OPEN
+Resolution: 
+-------------------------------------------------
+Incident ID: 1
+Time: 2025-09-09T11:38:53.9516011
+Severity: CRITICAL
+Type: EXCEPTION
+Message: java.lang.RuntimeException: Database connection failed
+Status: OPEN
+Resolution: 
+-------------------------------------------------
+Incident ID: 13
+Time: 2025-09-09T11:38:59.0975205
+Severity: CRITICAL
+Type: EXCEPTION
+Message: java.lang.RuntimeException: Database connection failed
+Status: OPEN
+Resolution: 
+-------------------------------------------------
+Incident ID: 4
+Time: 2025-09-09T11:39:23.9103798
+Severity: CRITICAL
+Type: EXCEPTION
+Message: java.lang.RuntimeException: Database connection failed
+Status: OPEN
+Resolution: 
+-------------------------------------------------
+Incident ID: 15
+Time: 2025-09-09T11:39:34.0976652
+Severity: CRITICAL
+Type: EXCEPTION
+Message: java.lang.RuntimeException: Database connection failed
+Status: OPEN
+Resolution: 
+-------------------------------------------------
+Incident ID: 6
+Time: 2025-09-09T11:39:38.9036194
+Severity: CRITICAL
+Type: EXCEPTION
+Message: java.lang.RuntimeException: Database connection failed
+Status: OPEN
+Resolution: 
+-------------------------------------------------
+Incident ID: 7
+Time: 2025-09-09T11:39:43.9031899
+Severity: CRITICAL
+Type: EXCEPTION
+Message: java.lang.RuntimeException: Database connection failed
+Status: OPEN
+Resolution: 
+-------------------------------------------------
+Incident ID: 8
+Time: 2025-09-09T11:39:58.916132
+Severity: CRITICAL
+Type: EXCEPTION
+Message: java.lang.RuntimeException: Database connection failed
+Status: OPEN
+Resolution: 
+-------------------------------------------------
+Incident ID: 2
+Time: 2025-09-09T11:45:57.6607414
+Severity: CRITICAL
+Type: EXCEPTION
+Message: java.lang.RuntimeException: Database connection failed
+Status: OPEN
+Resolution: 
+-------------------------------------------------
